@@ -1,0 +1,9 @@
+id: 1
+parent: 0
+latlng: [29.976111, 31.132778]
+name: Giza Necropolis
+about: >
+    The Giza Necropolis is an archaeological site on the Giza Plateau, on the outskirts of Cairo, Egypt. 
+    This complex of ancient monuments includes the three pyramid complexes known as the Great Pyramids, 
+    the massive sculpture known as the Great Sphinx, several cemeteries, a workers' village and an industrial complex.
+source: http://en.wikipedia.org/wiki/Giza_pyramid_complex
